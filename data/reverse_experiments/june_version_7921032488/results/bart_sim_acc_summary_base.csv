@@ -1,0 +1,8 @@
+key,acc_bart,sim_acc_bart
+p2d_reverse_prompts_test_bart,0.0,0.14951566666666677
+both_prompts_test_bart,0.83,0.7784308333333336
+p2d_prompts_test_bart,0.9833333333333333,0.9217380000000001
+d2p_prompts_test_bart,0.91,0.6908596666666665
+d2p_reverse_prompts_test_bart,0.0,0.15763300000000013
+p2d_reverse_prompts_test_randomized_bart,0.0,0.13441466666666677
+d2p_reverse_prompts_test_randomized_bart,0.0,0.1662903333333332
